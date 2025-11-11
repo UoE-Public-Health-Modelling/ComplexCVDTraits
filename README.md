@@ -45,9 +45,8 @@ complex-cvd-traits/
 │   └── outcomes/                # Summary stats for each of the six traits
 │
 ├── users/                       # User-specific working directories
-│   ├── chris_oldnall/
-│   ├── collaborator_1/
-│   └── ...
+│   ├── coldnall/
+│   └── ielliott/
 │
 ├── scripts/                     # Analysis scripts and pipelines
 │   ├── MR/                      # Core MR workflows
