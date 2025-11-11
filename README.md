@@ -69,15 +69,6 @@ complex-cvd-traits/
 
 ---
 
-## ⚙️ Suggested Additions
-
-- **`envs/`** — YAML or `.txt` files specifying reproducible Conda/Mamba environments for HPC use.  
-- **`notebooks/`** — Jupyter notebooks for exploratory or visual work.  
-- **`jobs/`** — Cluster submission scripts (SGE/SLURM), with standard logging and job arrays.  
-- **`meta/`** — Metadata tables linking exposure/outcome datasets, trait mappings, and analysis provenance.  
-
----
-
 ## 🧩 Methods (Outline)
 
 Each trait analysis will follow the same pipeline:
@@ -113,11 +104,9 @@ Intermediate outputs (temporary results, personal notes, draft plots) should rem
 
 ## 🧾 Citation & Acknowledgements
 
-This work is part of the **Complex CVD Traits** research stream at the *University of Edinburgh / Complex Disease Modelling Group*.
-
 If using this repository or associated results, please cite:
 
-> *Complex CVD Traits Consortium (2025). Causal inference across rare and complex cardiovascular phenotypes using proteomic and genetic instruments.*
+> *Causal inference across rare and complex cardiovascular phenotypes using proteomic and genetic instruments (2025).*
 
 ---
 
