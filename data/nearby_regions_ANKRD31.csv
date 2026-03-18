@@ -1,0 +1,4 @@
+"UKBPPP_ProteinID","olink_target_fullname","OlinkID","UniProt","Assay","Panel","Panel_Lot_Nr","UniProt2","HGNC.symbol","ensembl_id","chr","gene_start","gene_end","Strand","Dilution_factor","block","expansion"
+"ANXA5:P08758:OID20810:v1","Annexin A5","OID20810","P08758","ANXA5","Neurology","B04414","P08758","ANXA5","ENSG00000164111","4",121667946,121696995,-1,"1:1","A","no"
+"FGF2:P09038:OID20503:v1","Fibroblast growth factor 2","OID20503","P09038","FGF2","Inflammation","B04411","P09038","FGF2","ENSG00000138685","4",122826708,122898236,1,"1:1","B","no"
+"IL2:P60568:OID20419:v1","Interleukin-2","OID20419","P60568","IL2","Inflammation","B04411","P60568","IL2","ENSG00000109471","4",122451470,122456725,-1,"1:1","A","no"

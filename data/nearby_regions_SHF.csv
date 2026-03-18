@@ -1,0 +1,4 @@
+"UKBPPP_ProteinID","olink_target_fullname","OlinkID","UniProt","Assay","Panel","Panel_Lot_Nr","UniProt2","HGNC.symbol","ensembl_id","chr","gene_start","gene_end","Strand","Dilution_factor","block","expansion"
+"DUOX2:Q9NRD8:OID20059:v1","Dual oxidase 2","OID20059","Q9NRD8","DUOX2","Cardiometabolic","B04413","Q9NRD8","DUOX2","ENSG00000140279","15",45092650,45114172,-1,"1:1","A","no"
+"SORD:Q00796:OID21453:v1","Sorbitol dehydrogenase","OID21453","Q00796","SORD","Oncology","B04412","Q00796","SORD","ENSG00000140263","15",45023147,45077185,1,"1:1","C","no"
+"B2M:P61769:OID30725:v1","Beta-2-microglobulin","OID30725","P61769","B2M","Inflammation_II","B20704","P61769","B2M","ENSG00000166710","15",44711358,44718851,1,"1:100000","D","yes"

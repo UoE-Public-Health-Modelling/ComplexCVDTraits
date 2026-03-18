@@ -1,0 +1,2 @@
+"UKBPPP_ProteinID","olink_target_fullname","OlinkID","UniProt","Assay","Panel","Panel_Lot_Nr","UniProt2","HGNC.symbol","ensembl_id","chr","gene_start","gene_end","Strand","Dilution_factor","block","expansion"
+"CDH22:Q9UJ99:OID31332:v1","Cadherin-22","OID31332","Q9UJ99","CDH22","Oncology_II","B20705","Q9UJ99","CDH22","ENSG00000149654","20",46173739,46308498,-1,"1:1","B","yes"
