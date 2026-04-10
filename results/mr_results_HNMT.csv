@@ -1,0 +1,5 @@
+"id.exposure","id.outcome","outcome","exposure","method","nsnp","b","se","pval"
+"MGMsm8","LpgSb8","outcome","HNMT","Inverse variance weighted",51,0.0294875419621471,0.101267273181617,0.770909599766323
+"MGMsm8","LpgSb8","outcome","HNMT","Weighted mode",51,7.78697080196113,28.8312790996689,0.788204543209774
+"MGMsm8","LpgSb8","outcome","HNMT","Weighted median",51,-0.0808512352846838,0.144833233886521,0.57668272191912
+"MGMsm8","LpgSb8","outcome","HNMT","MR Egger",51,-0.0536180342790993,0.14880356183395,0.720150769923558

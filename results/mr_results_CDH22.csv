@@ -1,0 +1,5 @@
+"id.exposure","id.outcome","outcome","exposure","method","nsnp","b","se","pval"
+"lhlroN","NkNBs8","outcome","CDH22","Inverse variance weighted",69,0.00288936873808376,0.174853093188149,0.986815916432546
+"lhlroN","NkNBs8","outcome","CDH22","Weighted mode",69,-0.026865630062316,0.66130199629369,0.96771361353468
+"lhlroN","NkNBs8","outcome","CDH22","Weighted median",69,0.077577569553064,0.252458239386665,0.758623619801447
+"lhlroN","NkNBs8","outcome","CDH22","MR Egger",69,-0.27723760465287,0.298487008580635,0.356322001696288

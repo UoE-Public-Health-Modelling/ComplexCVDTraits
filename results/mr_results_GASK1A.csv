@@ -1,0 +1,5 @@
+"id.exposure","id.outcome","outcome","exposure","method","nsnp","b","se","pval"
+"e5krSz","iPinYu","outcome","GASK1A","Inverse variance weighted",47,-0.176627452583831,0.151352856220625,0.243213919941131
+"e5krSz","iPinYu","outcome","GASK1A","Weighted mode",47,-0.213162534310506,1.00754098727829,0.833379350205988
+"e5krSz","iPinYu","outcome","GASK1A","Weighted median",47,-0.172133430214394,0.212653194495462,0.418252831651932
+"e5krSz","iPinYu","outcome","GASK1A","MR Egger",47,-0.307772469351646,0.245565775723456,0.216562336809959

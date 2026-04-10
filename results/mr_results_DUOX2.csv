@@ -1,0 +1,5 @@
+"id.exposure","id.outcome","outcome","exposure","method","nsnp","b","se","pval"
+"QOr4ZC","xuNEVP","outcome","DUOX2","Inverse variance weighted",4,-0.0630464633403512,0.963949472590242,0.947852081634469
+"QOr4ZC","xuNEVP","outcome","DUOX2","Weighted mode",4,-0.281821081513303,3.46474204088062,0.940294500526777
+"QOr4ZC","xuNEVP","outcome","DUOX2","Weighted median",4,-0.295945627372098,5.73963613440578,0.958877905639346
+"QOr4ZC","xuNEVP","outcome","DUOX2","MR Egger",4,-1.89319315708134,1.78078984928014,0.39911059155196

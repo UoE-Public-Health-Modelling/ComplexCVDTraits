@@ -1,0 +1,5 @@
+"id.exposure","id.outcome","outcome","exposure","method","nsnp","b","se","pval"
+"g5hVQv","NQgTRU","outcome","SORD","Inverse variance weighted",41,0.210449668534245,0.512530826738314,0.681359408801289
+"g5hVQv","NQgTRU","outcome","SORD","Weighted mode",41,-0.176524259435304,9.0499022717098,0.98453470226795
+"g5hVQv","NQgTRU","outcome","SORD","Weighted median",41,-0.243212078760495,0.668887744057295,0.716151707860657
+"g5hVQv","NQgTRU","outcome","SORD","MR Egger",41,0.116580325055559,0.732479237400937,0.874365352796894
